@@ -1,4 +1,4 @@
-This repository contains various projects related to data science, machine learning, and analytics. 
+This repository contains various projects related to data analysis and data science. 
 The projects span different domains such as mental health, sales data analysis, and more. 
 Each project is contained in its own directory with its respective code, data, and documentation.
 
