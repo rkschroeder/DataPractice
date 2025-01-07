@@ -18,3 +18,14 @@ This project analyzes mental health issues in the IT sector. It includes data cl
 Key files:
 - `Project2/Project2_Mental_Health_IT.ipynb` - Jupyter notebook for analysis
 - `Project2/mental_health.sqlite` - SQLite database containing mental health data
+
+## Project3: Predicting State of Charge of Batteries 
+
+This project aims to predict the state of charge of batteries using real measurements. It includes data analysis, feature engineering, and machine learning to develop prediction models.
+
+Key files: 
+- `Project3\Overview.xsls` - Data
+- `Project3\requirements.txt` - Requirements to setup the conda envirement
+- `Project3\Project_Prediction.ypynb`- Jupyter notebook for data analysis and machine learning 
+
+
