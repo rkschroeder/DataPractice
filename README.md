@@ -24,8 +24,8 @@ Key files:
 This project aims to predict the state of charge of batteries using real measurements. It includes data analysis, feature engineering, and machine learning to develop prediction models.
 
 Key files: 
-- `Project3\Overview.xsls` - Data
-- `Project3\requirements.txt` - Requirements to setup the conda envirement
-- `Project3\Project_Prediction.ypynb`- Jupyter notebook for data analysis and machine learning 
+- `Project3/Overview.xsls` - Data
+- `Project3/requirements.txt` - Requirements to setup the conda envirement
+- `Project3/Project_Prediction.ypynb`- Jupyter notebook for data analysis and machine learning 
 
 
