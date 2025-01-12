@@ -11,6 +11,9 @@ Key files:
 - `Project1/Project1_Motorcycle_Sales.ipynb` - Jupyter notebook for analysis
 - `Project1/sales_data.sqlite` - SQLite database containing sales data
 
+Tools: 
+- SQL, Python (matploblib, pandas,seaborn)
+
 ## Project2: Mental Health Data Analysis
 
 This project analyzes mental health issues in the IT sector. It includes data cleaning, data analysis and visualizations.  
@@ -18,6 +21,9 @@ This project analyzes mental health issues in the IT sector. It includes data cl
 Key files:
 - `Project2/Project2_Mental_Health_IT.ipynb` - Jupyter notebook for analysis
 - `Project2/mental_health.sqlite` - SQLite database containing mental health data
+
+Tools: 
+- Python (matploblib, pandas,seaborn)
 
 ## Project3: Prediction of the State of Charge of Batteries in Electric Vehicles 
 
@@ -28,4 +34,6 @@ Key files:
 - `Project3/requirements.txt` - Requirements to setup the conda envirement
 - `Project3/Project3_Prediction.ipynb`- Jupyter notebook for data analysis and machine learning 
 
+Tools: 
+- Python (matploblib, pandas,seaborn, sklearn)
 
