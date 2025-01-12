@@ -2,6 +2,8 @@ This repository contains various projects related to data analysis and data scie
 The projects span different domains such as mental health, sales data analysis, and more. 
 Each project is contained in its own directory with its respective code, data, and documentation.
 
+For each project, I created a virtual environment using Conda (via Miniconda). The library versions vary by project and are specified in the corresponding requirements.txt file.
+
 ## Project1: Motorcycle Sales Analysis
 
 This project analyzes sales data from a motorcycle parts. It includes creating a database, data retrieving and creating visualizations
@@ -31,7 +33,6 @@ This project aims to predict the state of charge of batteries using real measure
 
 Key files: 
 - `Project3/Overview.xsls` - Data
-- `Project3/requirements.txt` - Requirements to setup the conda envirement
 - `Project3/Project3_Prediction.ipynb`- Jupyter notebook for data analysis and machine learning 
 
 Tools: 
